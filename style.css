@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    height: 20px;
+}
+.header{
+gap: 50px;
+}
+.img{
+    display: flex;
+    align-items: center;
+    gap:10px;
+}
